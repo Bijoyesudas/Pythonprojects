@@ -1,0 +1,13 @@
+.banner{
+    background-color:#145748;
+    height:200px;
+    width:100%;
+    margin-bottom:50px;
+}
+.banner-text
+{
+    color:white;
+    text-align:center;
+    padding-top:50px;
+
+}
